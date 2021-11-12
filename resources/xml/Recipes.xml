@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recipes>
+    <recipe>
+        <name>Ensalada de cebolla</name>
+        <author>
+            <name>ferni</name>
+            <email>ferni@ferni.ferni</email>
+        </author>
+        <ingredients>
+            <ingredient quantity="1" measure="unidad">Cebolla</ingredient>
+            <ingredient quantity="1" measure="cucharada">Aceite</ingredient>
+            <ingredient quantity="1" measure="chorrito">Aceite</ingredient>
+        </ingredients>
+        <instructions>
+            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Reprehenderit adipisci, magni quia ratione ab voluptatem eum provident cumque aliquid quod iure cum eius maiores, maxime quo hic. Cumque, maxime aliquam!
+        </instructions>
+    </recipe>
+</recipes>

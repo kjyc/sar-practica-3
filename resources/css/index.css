@@ -1,0 +1,55 @@
+.index-container {
+    margin: auto;
+    margin-top: 50px;
+    width: 650px;
+}
+
+#signup {
+    display: none;
+}
+
+.btn-container {
+    width: 100%;
+    display: flex;
+}
+
+#btn-sign-in {
+    width: 50%;
+    padding: 15px;
+    font-size: 15px;
+    border-radius: 10px 0 0 0;
+}
+
+#btn-sign-up {
+    width: 50%;
+    padding: 15px;
+    font-size: 15px;
+    border-radius: 0 10px 0 0;
+}
+
+.form-container {
+    padding: 20px;
+    border: 1px solid black;
+    border-top: none;
+    border-radius: 0 0 10px 10px;
+}
+
+.form {
+    text-align: center;
+}
+
+.row {
+    width: 100%;
+    display: flex;
+}
+
+.input {
+    width: 100%;
+    margin: 20px 35px 20px 35px;
+    padding: 15px;
+    font-size: 17px;
+}
+
+.title {
+    text-align: center;
+}

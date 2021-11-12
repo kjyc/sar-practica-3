@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+    <user>
+        <name>Kevin</name>
+        <lastname>Yovera</lastname>
+        <email>kjyc@gmail.com</email>
+        <password>123</password>
+    </user>
+
+    <user>
+        <name>asd</name>
+        <lastname>asd</lastname>
+        <email>asd</email>
+        <password/>
+    </user>
+    <user>
+        <name>asd</name>
+        <lastname>asd</lastname>
+        <email>asd</email>
+        <password>asd</password>
+    </user>
+    <user>
+        <name>Fernado</name>
+        <lastname>El amo</lastname>
+        <email>fer@gmail.com</email>
+        <password>asd</password>
+    </user>
+</users>
