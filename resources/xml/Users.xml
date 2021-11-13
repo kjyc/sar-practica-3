@@ -1,28 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <users>
-    <user>
+    <user id="1636834899">
         <name>Kevin</name>
         <lastname>Yovera</lastname>
-        <email>kjyc@gmail.com</email>
-        <password>123</password>
+        <email>kyovera001@ikasle.ehu.eus</email>
+        <password>ef797c8118f02dfb649607dd5d3f8c7623048c9c063d532cc95c5ed7a898a64f</password>
     </user>
-
-    <user>
-        <name>asd</name>
-        <lastname>asd</lastname>
-        <email>asd</email>
-        <password/>
-    </user>
-    <user>
-        <name>asd</name>
-        <lastname>asd</lastname>
-        <email>asd</email>
-        <password>asd</password>
-    </user>
-    <user>
-        <name>Fernado</name>
-        <lastname>El amo</lastname>
-        <email>fer@gmail.com</email>
-        <password>asd</password>
+    <user id="1636836293">
+        <name>Ibai</name>
+        <lastname>Llanos</lastname>
+        <email>ibai.llanos@ehu.es</email>
+        <password>ef797c8118f02dfb649607dd5d3f8c7623048c9c063d532cc95c5ed7a898a64f</password>
     </user>
 </users>

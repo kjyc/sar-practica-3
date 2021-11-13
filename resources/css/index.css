@@ -4,7 +4,7 @@
     width: 650px;
 }
 
-#signup {
+#sign-up {
     display: none;
 }
 
@@ -17,19 +17,35 @@
     width: 50%;
     padding: 15px;
     font-size: 15px;
+    border: none;
     border-radius: 10px 0 0 0;
+    background-color: #2b6777;
+    color: white;
+}
+
+#btn-sign-in:hover {
+    opacity: 0.8;
 }
 
 #btn-sign-up {
     width: 50%;
     padding: 15px;
     font-size: 15px;
+    border: none;
     border-radius: 0 10px 0 0;
+    background-color: #2b6777;
+    color: white;
+}
+
+#btn-sign-up:hover {
+    opacity: 0.8;
 }
 
 .form-container {
     padding: 20px;
-    border: 1px solid black;
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgba(0, 0, 0, 0.25);
     border-top: none;
     border-radius: 0 0 10px 10px;
 }
@@ -52,4 +68,18 @@
 
 .title {
     text-align: center;
+}
+
+.su-error-message {
+    width: 100%;
+    margin: 0 35px 0 35px;
+    text-align: left;
+    color: red;
+}
+
+.si-error-message {
+    width: 100%;
+    margin: 0 35px 0 35px;
+    text-align: center;
+    color: red;
 }

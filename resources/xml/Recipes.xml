@@ -7,12 +7,12 @@
             <email>ferni@ferni.ferni</email>
         </author>
         <ingredients>
-            <ingredient quantity="1" measure="unidad">Cebolla</ingredient>
-            <ingredient quantity="1" measure="cucharada">Aceite</ingredient>
-            <ingredient quantity="1" measure="chorrito">Aceite</ingredient>
+            <ingredient quantity="1" measure="unit">Cebolla</ingredient>
+            <ingredient quantity="1" measure="tablespoon">Aceite</ingredient>
+            <ingredient quantity="1" measure="tablespoon">Vinagre</ingredient>
         </ingredients>
-        <instructions>
+        <preparation>
             Lorem ipsum dolor sit, amet consectetur adipisicing elit. Reprehenderit adipisci, magni quia ratione ab voluptatem eum provident cumque aliquid quod iure cum eius maiores, maxime quo hic. Cumque, maxime aliquam!
-        </instructions>
+        </preparation>
     </recipe>
 </recipes>
