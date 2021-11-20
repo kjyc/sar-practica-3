@@ -1,3 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+html {
+    font-family: 'Lato', sans-serif;
+    text-align: center;
+}
+
 .btn {
     border: none;
     background-color: #52ab98;
@@ -17,6 +24,6 @@
     border-radius: 5px;
 }
 
-.ipt-error{
+.ipt-error {
     border-color: rgba(255, 0, 0, 0.5);
 }

@@ -50,10 +50,6 @@
     border-radius: 0 0 10px 10px;
 }
 
-.form {
-    text-align: center;
-}
-
 .row {
     width: 100%;
     display: flex;
@@ -66,10 +62,6 @@
     font-size: 17px;
 }
 
-.title {
-    text-align: center;
-}
-
 .su-error-message {
     width: 100%;
     margin: 0 35px 0 35px;
@@ -80,6 +72,5 @@
 .si-error-message {
     width: 100%;
     margin: 0 35px 0 35px;
-    text-align: center;
     color: red;
 }

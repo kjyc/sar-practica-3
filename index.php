@@ -11,9 +11,7 @@ if (isset($_SESSION['id'])) {
     <meta charset="UTF-8">
     <link rel="stylesheet" href="./resources/css/index.css">
     <link rel="stylesheet" href="./resources/css/global.css">
-    <script src="./resources/js/index/index.js"></script>
-    <script src="./resources/js/index/index-si.js"></script>
-    <script src="./resources/js/index/index-su.js"></script>
+    <script src="./resources/js/index.js"></script>
     <title>Inicio</title>
 </head>
 
@@ -24,8 +22,8 @@ if (isset($_SESSION['id'])) {
             <button id="btn-sign-up">Registrarse</button>
         </div>
         <div id="sign-in" class="form-container">
-            <h1 class="title">Sign In</h1>
-            <form id="si-form" class="form" action="" method="POST">
+            <h1>Sign In</h1>
+            <form id="si-form" action="" method="POST">
                 <div class="row">
                     <input class="input ipt" type="text" name="si-email" id="si-email" placeholder="Correo">
                 </div>
@@ -40,8 +38,8 @@ if (isset($_SESSION['id'])) {
             </form>
         </div>
         <div id="sign-up" class="form-container">
-            <h1 class="title">Sign Up</h1>
-            <form id="su-form" class="form" action="" method="POST">
+            <h1>Sign Up</h1>
+            <form id="su-form" action="" method="POST">
                 <div class="row">
                     <input class="input ipt" type="text" name="su-name" id="su-name" placeholder="Nombre">
                 </div>
